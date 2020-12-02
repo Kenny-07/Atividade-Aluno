@@ -1,0 +1,13 @@
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Aluno\bin\Debug\netcoreapp3.1\Atividade-Aluno.exe
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Aluno\bin\Debug\netcoreapp3.1\Atividade-Aluno.deps.json
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Aluno\bin\Debug\netcoreapp3.1\Atividade-Aluno.runtimeconfig.json
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Aluno\bin\Debug\netcoreapp3.1\Atividade-Aluno.runtimeconfig.dev.json
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Aluno\bin\Debug\netcoreapp3.1\Atividade-Aluno.dll
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Aluno\bin\Debug\netcoreapp3.1\Atividade-Aluno.pdb
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Aluno\obj\Debug\netcoreapp3.1\Atividade-Aluno.csprojAssemblyReference.cache
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Aluno\obj\Debug\netcoreapp3.1\Atividade-Aluno.AssemblyInfoInputs.cache
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Aluno\obj\Debug\netcoreapp3.1\Atividade-Aluno.AssemblyInfo.cs
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Aluno\obj\Debug\netcoreapp3.1\Atividade-Aluno.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Aluno\obj\Debug\netcoreapp3.1\Atividade-Aluno.dll
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Aluno\obj\Debug\netcoreapp3.1\Atividade-Aluno.pdb
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Aluno\obj\Debug\netcoreapp3.1\Atividade-Aluno.genruntimeconfig.cache
